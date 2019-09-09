@@ -5,5 +5,5 @@
 3. https://www.youtube.com/watch?v=R2qjqqfkH6E
 4. https://www.youtube.com/watch?v=jmSgsaNSQ6s
 5. https://www.youtube.com/watch?v=6OTX3ZdYvEA
-6. https://www.youtube.com/watch?v=ZTxBrjN1ugA&t=669s
-7. https://www.youtube.com/watch?v=5lr8QnR5WWU&t=2s
+6. https://www.youtube.com/watch?v=ZTxBrjN1ugA
+7. https://www.youtube.com/watch?v=5lr8QnR5WWU
