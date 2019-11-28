@@ -37,6 +37,8 @@
 
 ## To-Do
 
-Go through these and create a new Blender file for each to track
-progress on that topic. Document the findings and stuff for each
-episode under it, turn the links into headings.
+### Go through these
+
+Create a new Blender file for each to track progress on that topic.
+Document the findings and stuff for each episode under it, turn the links
+into headings.
